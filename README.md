@@ -14,7 +14,7 @@
     <img src="https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Dataset-green">
   </a>
   <a href="#">
-    <img src="https://api.visitorbadge.io/api/visitors?path=[https://github.com/DataScienceUIBK/Rankify](https://github.com/DataScienceUIBK/llm-reranking-generalization-study)">
+    <img src="https://api.visitorbadge.io/api/visitors?path=[https://github.com/DataScienceUIBK/Rankify](https://github.com/DataScienceUIBK/llm-reranking-generalization-study)" style="height: 20px;">
   </a>
 </div>
 
