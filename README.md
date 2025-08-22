@@ -175,8 +175,8 @@ We welcome contributions! See [CONTRIBUTING.md](CONTRIBUTING.md) for:
 If you use FutureQueryEval or our evaluation framework, please cite:
 
 ```bibtex
-soon 
-}
+Coming Soon  
+
 ```
 
 # 📞 Contact
