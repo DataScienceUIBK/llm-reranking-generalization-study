@@ -115,7 +115,7 @@ The code and Dataset will be available soon...
 | **Tournament** | TourRank-GPT4o | **62.02** | 3,420 |
 
 ## Performance Insights
-- 🏆 **Best Overall**: TourRank-GPT4o (62.02 NDCG@10)
+- 🏆 **Best Overall**: Zephyr-7B (62.65 NDCG@10)
 - ⚡ **Best Efficiency**: FlashRank-MiniLM (55.43 NDCG@10, 195s)
 - 🎯 **Best Balance**: MonoT5-3B (60.75 NDCG@10, 486s)
 
