@@ -120,7 +120,7 @@ The code and Dataset will be available soon...
 - 🎯 **Best Balance**: MonoT5-3B (60.75 NDCG@10, 486s)
 
 <div align="center">
-<img src="assets/efficiency_tradeoff.jpg" alt="Efficiency Analysis" width="700"/>
+<img src="figures/efficiency_tradeoff.png.jpg" alt="Efficiency Analysis" width="700"/>
 <p><em>Runtime vs. Performance trade-offs across reranking methods</em></p>
 </div>
 
