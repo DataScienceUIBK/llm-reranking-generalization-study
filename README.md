@@ -71,7 +71,7 @@ We present the **most comprehensive empirical study of reranking methods** to da
 | Query-Document Pairs | 2,938 |
 | Avg. Relevant Docs per Query | 6.54 |
 | Languages | English |
-| License | MIT |
+| License | Apache-2.0 license |
 
 ### 🌍 Category Distribution
 - **Technology**: 25.0% (37 queries)
