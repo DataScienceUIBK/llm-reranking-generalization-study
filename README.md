@@ -1,7 +1,7 @@
 # How Good are LLM-based Rerankers? An Empirical Analysis of State-of-the-Art Reranking Models 🔍
 
 <div align="center">
-  <a href="https://arxiv.org/abs/XXXX.XXXXX">
+  <a href="https://arxiv.org/abs/2508.16757">
     <img src="https://img.shields.io/badge/Paper-arXiv-red">
   </a>
   <a href="https://github.com/DataScienceUIBK/llm-reranking-generalization-study">
@@ -10,11 +10,11 @@
   <a href="#futurequery-dataset">
     <img src="https://img.shields.io/badge/Dataset-FutureQueryEval-blue">
   </a>
-  <a href="[https://huggingface.co/datasets/your-username/futurequery-eval](https://huggingface.co/datasets/abdoelsayed/FutureQueryEval)">
+  <a href="https://huggingface.co/datasets/abdoelsayed/FutureQueryEval">
     <img src="https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Dataset-green">
   </a>
   <a href="#">
-    <img src="https://api.visitorbadge.io/api/visitors?path=[https://github.com/DataScienceUIBK/Rankify](https://github.com/DataScienceUIBK/llm-reranking-generalization-study)" style="height: 20px;">
+    <img src="https://api.visitorbadge.io/api/visitors?path=https://github.com/DataScienceUIBK/llm-reranking-generalization-study" style="height: 20px;">
   </a>
 </div>
 
